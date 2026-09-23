@@ -39,5 +39,3 @@ Python · Apache Spark · PySpark MLlib · Docker · Jupyter Notebook
 ---
 
 *Developed as part of the Data Science course at Universidad del Valle de Guatemala.*
-
-**Authors:** Pablo Herrera · Silvia Illescas
